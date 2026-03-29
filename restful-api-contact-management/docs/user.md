@@ -114,8 +114,6 @@ Request Header :
 Response (Success) :
 ```json
 {
-    "data" :{
-        true
-    }
+    "data" : true
 }
 ```
